@@ -253,6 +253,7 @@ Antropomorfismo:
 - Categorizar mensajes de forma cohesiva, utilizando "private" para aquellos mensajes que no forman parte del protocolo escencial (público) del objeto.
 
 ## Acerca de los métodos y mensajes en smalltalk
+
 ```smalltalk
 nombreMensaje
 	"comentarios"
