@@ -89,7 +89,7 @@ Colaboradores:
     |--|--|--|
     | `AlanTuring`| `dateOfBirth` | Yo en el ambiente|
 
-    **Siempre tiene se responde un objeto:**  Si uno no pone el `return` explícito responde `self`.
+    **Siempre tiene se responde un objeto:**  En el caso de `smalltalk` si uno no pone el `return` explícito responde `self`.
 
     **Receptor desconoce al emisor:** La respuesta a una colaboración es independiente del emisor.
 
@@ -114,7 +114,6 @@ Closure:
 - Objeto que representa un bloque de código
 - Diferencia con método: No está asociado a un mensaje (es anónimo)
 - Representan conjunto de colaboraciones.
-- Se evalúan a través del mensaje `value`.
 - Estan bindeados al contexto. El closure esta unido al contexto.
 
 Ejemplo:
@@ -161,7 +160,7 @@ Igualdad vs Identidad:
 
     ```smalltalk
     "Identidad"
-    (3/4) == (3/4). false --> Ya que son dos objetos diferentes. No se puede guardar en memoria entonces se guarda en diferentes.
+    (3/4) == (3/4). false --> Ya que son dos objetos diferentes. No se puede guardar en memoria entonces se guarda en diferentes objetos.
     (10 factorial) == (10 factorial). true
     (100 factorial) == (100 factorial). false
     5 == 5. true
@@ -263,7 +262,7 @@ nombreMensaje
 
 El `^` vendria a remplazar el `return`.
 
-Se asigna el valor a una variable con `:=` o tambien con `_`.
+Se asigna el valor a una variable temporal con `:=` o tambien con `_`.
 
 Las variables se declaran entre `| |`
 
