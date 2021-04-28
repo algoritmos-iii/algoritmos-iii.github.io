@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Bibliografía
-permalink: /bibliografia/
 ---
 
 ## Libros
@@ -38,13 +37,13 @@ permalink: /bibliografia/
 
 - [Design Patterns: Elements of Reusable Object-Oriented Software, Introduction ~ The Gang of Four](bibliografia/intro-design-patterns.pdf)
 
+- [Fail Fast ~ Jim Shore](bibliografia/fail-fast.pdf)
+
 ### Complementarias
 
 - [Blue Book ~ Adele Goldberg & David Robson](http://sdmeta.gforge.inria.fr/FreeBooks/BlueBook/Bluebook.pdf)
 
 - [Polimorphic Hierarchy ~ Booby Wolf](bibliografia/polymorphic-hierarchy.pdf)
-
-- [Fail Fast ~ Jim Shore](bibliografia/fail-fast.pdf)
 
 ## Videos
 

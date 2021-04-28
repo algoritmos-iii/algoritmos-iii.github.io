@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Ejercicios
-permalink: /ejercicios/
 ---
 
 Los ejercicios se resuelven de a grupos de a dos integrantes y se comparten a través de Github de manera pública.
@@ -10,24 +9,14 @@ Si te llegas a quedar sin grupo por cualquier motivo en algun momento de la curs
 
 ## Repositorio de la materia
 
-Pueden encontrar los enunciados de cada ejercicio en el [repositorio de ejercicios](https://github.com/algoritmos-iii/ejercicios-2020-2c)
+Pueden encontrar los enunciados de cada ejercicio en el [repositorio de ejercicios](https://github.com/algoritmos-iii/ejercicios-2021-1c)
  de la materia. De este repositorio se puede hacer un `fork` de Github, o simplemente descargar los enunciados y archivos `.st` sueltos, y con eso cada grupo se arma su propio repositorio donde ira completando los ejercicios.
  
 Iremos publicando los mismos con el correr de la cursada.
 
 ## Fechas de Entrega
 
-| Ejercicio               |  Fecha Presentación  |  Fecha de Entrega              |
-| ----------------------- | -------------------- | ------------------------------ |
-| Factorio                |  22/10/2020          | 29/10/2020 (hasta las 19 hrs)  |
-| Código Repetido         |  02/11/2020          | 09/11/2020 (hasta las 19 hrs)  |
-| Números                 |  09/11/2020          | 16/11/2020 (hasta las 19 hrs)  |
-| Mars Rover              |  30/11/2020          | 07/12/2020 (hasta las 19 hrs)  |
-| Servicios Financieros   |  03/12/2020          | 10/12/2020 (hasta las 19 hrs)  |
-| Servicios Financieros 2 |  10/12/2020          | 17/12/2020 (hasta las 19 hrs)  |
-| TusLibros - Iteración 1 |  08/02/2021          | 11/02/2021 (hasta las 19 hrs)  |
-| TusLibros - Iteración 2 |  11/02/2021          | 18/02/2021 (hasta las 19 hrs)  |
-| TusLibros - Iteración 3 |  18/02/2021          | 25/02/2021 (hasta las 19 hrs)  |
+Las fechas de entrega figuran en el conograma de la materia. Todos los ejercicios deben entregarse ANTES del comienzo de la clase correspondiente, es decir, hasta las 19 hrs. No serán aceptados trabajos entregados luego de esa hora, ya que veremos en esa clase la resolución del ejercicio.
 
 ## Forma de Entrega
 
