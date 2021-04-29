@@ -8,3 +8,9 @@ _site/
 
 #Gemfile.lock
 Gemfile.lock
+
+#vendor
+/vendor
+
+#.bundle
+.bundle
