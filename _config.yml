@@ -1,6 +1,2 @@
 theme: minima
 title: Algoritmos III
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
