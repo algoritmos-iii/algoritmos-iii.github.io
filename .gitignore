@@ -5,3 +5,6 @@ _site/
 
 #.DS_STORE
 .DS_STORE
+
+#Gemfile.lock
+Gemfile.lock
