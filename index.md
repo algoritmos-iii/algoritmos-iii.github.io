@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img src="assets/logo.svg" with="50" height="50"/> Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Méndez/Leveroni
+Bienvenidos a Algoritmos y Programación III (7507/9502) - Curso Leveroni
 
 # 2021 - 1er Cuatrimestre
 
