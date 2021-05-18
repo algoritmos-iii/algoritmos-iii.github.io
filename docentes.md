@@ -44,10 +44,10 @@ title: Docentes
       <div class="container">
         <h1>{{ filename }}</h1>
         <a href="#">
-          <img alt="{{filename}}" width="22px" src="https://icongr.am/fontawesome/github.svg?size=128&color=0095db" />
+          <img alt="{{filename}}" width="22px" src="https://icongr.am/fontawesome/github.svg?size=128&color=4a4a48" />
         </a>
         <a href="#">
-          <img alt="{{filename}}" width="22px" src="https://icongr.am/clarity/email.svg?size=128&color=0095db" />
+          <img alt="{{filename}}" width="22px" src="https://icongr.am/clarity/email.svg?size=128&color=4a4a48" />
         </a>
       </div>
     </div>
