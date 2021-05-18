@@ -27,6 +27,12 @@ title: Docentes
 .card .container {
   padding: 2px 14px;
 }
+
+.card .profile {
+    width: 100%;
+    height: 20vw;
+    object-fit: cover;
+}
 </style>
 <div class="gallery">
 {%- for image in site.static_files -%}
@@ -34,14 +40,14 @@ title: Docentes
     {%- assign filenameparts = image.path | split: "/" -%}
     {%- assign filename = filenameparts | last | replace: image.extname,"" -%}
     <div class="card">
-      <img src="{{image.path | relative_url }}" alt="image" class="center" style="width:100%"/>
+      <img src="{{image.path | relative_url }}" alt="image" class="profile" style="width:100%"/>
       <div class="container">
         <h1>{{ filename }}</h1>
-        <a href="">
-          <img align="left" alt="{{filename}}" width="22px" src="https://icongr.am/fontawesome/github.svg?size=128" />
+        <a href="#">
+          <img alt="{{filename}}" width="22px" src="https://icongr.am/fontawesome/github.svg?size=128&color=0095db" />
         </a>
-        <a href="">
-          <img align="left" alt="{{filename}}" width="22px" src="https://icongr.am/clarity/email.svg?size=128&color=currentColor" />
+        <a href="#">
+          <img alt="{{filename}}" width="22px" src="https://icongr.am/clarity/email.svg?size=128&color=0095db" />
         </a>
       </div>
     </div>
