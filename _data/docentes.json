@@ -1,5 +1,23 @@
 [
     {
+        "name": "Luciano Leveroni",
+        "github": "lucianolev",
+        "email": "lleveroni@fi.uba.ar",
+        "profile-image": "./assets/docentes/LucianoL.png"
+    },
+    {
+        "name": "Sergio Fedi",
+        "github": "sergio-fedi",
+        "email": "sergio.fedi@gmail.com",
+        "profile-image": "./assets/docentes/SergioF.gif"
+    },
+    {
+        "name": "Juan Burella",
+        "github": "jburella",
+        "email": "juan.burella@gmail.com",
+        "profile-image": "./assets/docentes/JuanB.png"
+    },
+    {
         "name": "Iván Loyarte",
         "github": "iloyarte",
         "email": "iloyarte@fi.uba.ar",
@@ -22,24 +40,6 @@
         "github": "ncontinanza",
         "email": "ncontinanza@fi.uba.ar",
         "profile-image": "./assets/docentes/NicolasC.png"
-    },
-    {
-        "name": "Sergio Fedi",
-        "github": "sergio-fedi",
-        "email": "sergio.fedi@gmail.com",
-        "profile-image": "./assets/docentes/SergioF.gif"
-    },
-    {
-        "name": "Juan Burella",
-        "github": "jburella",
-        "email": "juan.burella@gmail.com",
-        "profile-image": "./assets/docentes/JuanB.png"
-    },
-    {
-        "name": "Luciano Leveroni",
-        "github": "lucianolev",
-        "email": "lleveroni@fi.uba.ar",
-        "profile-image": "./assets/docentes/LucianoL.png"
     },
     {
         "name": "Fernando Laudadio",
