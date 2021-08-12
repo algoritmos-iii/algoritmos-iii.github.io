@@ -8,6 +8,7 @@ title: Docentes
   flex-wrap: wrap;
   margin: 0;
   padding: 0;
+  justify-content: center;
 }
 
 .card {
@@ -15,7 +16,7 @@ title: Docentes
   box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2);
   transition: 0.2s;
   margin: 3px;
-  width: 24.99%;
+  width: 30%;
   flex-direction: column;
 }
 
@@ -44,10 +45,6 @@ a:link {
 }
 
 @media only screen and (max-width: 700px) {
-  .card {
-    width: 30%;
-  }
-  
   .card .profile {
     height: 40vw;
   }
