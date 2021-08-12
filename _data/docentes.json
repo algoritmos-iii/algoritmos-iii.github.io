@@ -6,17 +6,18 @@
         "profile-image": "./assets/docentes/LucianoL.png"
     },
     {
-        "name": "Sergio Fedi",
-        "github": "sergio-fedi",
-        "email": "sergio.fedi@gmail.com",
-        "profile-image": "./assets/docentes/SergioF.gif"
-    },
-    {
         "name": "Juan Burella",
         "github": "jburella",
         "email": "juan.burella@gmail.com",
         "profile-image": "./assets/docentes/JuanB.png"
     },
+    {
+        "name": "Sergio Fedi",
+        "github": "sergio-fedi",
+        "email": "sergio.fedi@gmail.com",
+        "profile-image": "./assets/docentes/SergioF.gif"
+    },
+  
     {
         "name": "Iván Loyarte",
         "github": "iloyarte",
