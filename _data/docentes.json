@@ -17,7 +17,6 @@
         "email": "sergio.fedi@gmail.com",
         "profile-image": "./assets/docentes/SergioF.gif"
     },
-  
     {
         "name": "Iván Loyarte",
         "github": "iloyarte",
@@ -47,5 +46,95 @@
         "github": "flaudadio",
         "email": "flaudadio@fi.uba.ar",
         "profile-image": "./assets/docentes/FernandoL.jpg"
+    },
+    {
+        "name": "Ivan Litteri",
+        "github": "ilitteri",
+        "email": "ilitteri@fi.uba.ar",
+        "profile-image": "./assets/docentes/IvanL.jpeg"
+    },
+    {
+        "name": "Matias Valmaggia",
+        "github": "mvalmaggia",
+        "email": "mvalmaggia@fi.uba.ar",
+        "profile-image": "./assets/docentes/MatiasV.jpg"
+    },
+    {
+        "name": "Ignacio Brusati",
+        "github": "brusati",
+        "email": "ibrusati@fi.uba.ar",
+        "profile-image": "./assets/docentes/IgnacioB.jpg"
+    },
+    {
+        "name": "Joaquín Singer",
+        "github": "josinger",
+        "email": "josinger@fi.uba.ar",
+        "profile-image": "./assets/docentes/JoaquinS.jpg"
+    },
+    {
+        "name": "Joaquín Singer",
+        "github": "josinger",
+        "email": "josinger@fi.uba.ar",
+        "profile-image": "./assets/docentes/JoaquinS.jpg"
+    },
+    {
+        "name": "Josué Alejandro Bouchard",
+        "github": "josuebouchard",
+        "email": "jbouchard@fi.uba.ar",
+        "profile-image": "./assets/docentes/JosueB.jpeg"
+    },
+    {
+        "name": "Federico Valsagna",
+        "github": "FedericoValsagna",
+        "email": "fvalsagna@fi.uba.ar",
+        "profile-image": "./assets/docentes/FedericoV.jpg"
+    },
+    {
+        "name": "Luciano Trujillo",
+        "github": "LucianoTrujillo",
+        "email": "ltrujillo@fi.uba.ar",
+        "profile-image": "./assets/docentes/LucianoT.jpeg"
+    },
+    {
+        "name": "Ana Gutson",
+        "github": "AnaGutson",
+        "email": "agutson@fi.uba.ar",
+        "profile-image": "./assets/docentes/AnaG.jpg"
+    },
+    {
+        "name": "Federico Jaleh",
+        "github": "Ezjafe",
+        "email": "fjaleh@fi.uba.ar",
+        "profile-image": "./assets/docentes/FedericoJ.jpg"
+    },
+    {
+        "name": "Ignacio Avecilla",
+        "github": "IAvecilla",
+        "email": "iavecilla@fi.uba.ar",
+        "profile-image": "./assets/docentes/IgnacioA.jpg"
+    },
+    {
+        "name": "Borja Garibotti",
+        "github": "mrti259",
+        "email": "borjagaribotti@gmail.com",
+        "profile-image": "./assets/docentes/BorjaG.jpg"
+    },
+    {
+        "name": "Joaquin Prada",
+        "github": "PradaJoaquin",
+        "email": "jprada@fi.uba.ar",
+        "profile-image": "./assets/docentes/JoaquinP.jpeg"
+    },
+    {
+        "name": "Sebastian Aznarez",
+        "github": "sebideth",
+        "email": "saznarez@fi.uba.ar",
+        "profile-image": "./assets/docentes/SebastianA.jpg"
+    },
+    {
+        "name": "Felipe Marelli",
+        "github": "FelipeMarelli",
+        "email": "fmarelli@fi.uba.ar",
+        "profile-image": "./assets/docentes/FelipeM.jpeg"
     }
 ]
