@@ -16,7 +16,7 @@ title: Docentes
   box-shadow: 4px 4px 8px 0 rgba(0, 0, 0, 0.2);
   transition: 0.2s;
   margin: 3px;
-  width: 30%;
+  width: 32%;
   flex-direction: column;
 }
 
