@@ -1,0 +1,15 @@
+---
+layout: page
+title: FAQs
+---
+
+## Terminé el exámen y necesito certificado del mismo
+
+Descargá el [certificado en la pagina de FIUBA](https://cms.fi.uba.ar/uploads/CONSTANCIA_POR_RENDIR_EXAMEN_2021_726815957f.pdf), completa con tus datos y envialo a la siguiente <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lleveroni@fi.uba.ar" target="_blank"> casilla de correo</a>.
+
+## Estoy matriculado en la materia pero no en el campus
+
+No te procupes! No vamos a utilizar el campus.
+
+<br><br>
+<p class="text-muted">Cualquier consulta no dudes en consultar. Fijate nuestros <a href="/#canales-consultas">canales de consultas</a></p>
