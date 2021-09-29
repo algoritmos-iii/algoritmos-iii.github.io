@@ -11,5 +11,9 @@ Descargá el [certificado en la pagina de FIUBA](https://cms.fi.uba.ar/uploads/C
 
 No te procupes! No vamos a utilizar el campus. Nos comunicaremos tanto por la lista de mail como por nuestro server de [discord](https://discord.gg/yPdNkej).
 
+## Me anoté como condicional y quiero quedar en este curso
+
+Lamentablemente esa gestión no es algo que dependa de nosotros, sino que lo maneja completamente el Departamento de Computación. Si ellos no te asignan a nuestro curso, no tenemos forma de inscribirte acá.
+
 <br><br>
 <p class="text-muted">Cualquier consulta no dudes en consultar. Fijate nuestros <a href="/#canales-consultas">canales de consultas</a></p>
