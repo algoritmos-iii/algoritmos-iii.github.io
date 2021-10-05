@@ -3,7 +3,7 @@
 
 @import "minima";
 
-.site-header{ 
+.site-header {
     background-image: linear-gradient(120deg, #155799, #159957);
     border-top: 0px;
     border-bottom: 0px;
@@ -23,9 +23,61 @@
     color: white;
 }
 
+.dropdown-label > .dropdown-list {
+    display: none;
+    list-style: none;
+    margin: 0;
+    margin-inline: 0;
+    padding: 0;
+}
+
+@media screen and (min-width: 600px) {
+    .dropdown-label {
+        position: relative;
+
+        > .dropdown-list {
+            display: none;
+            z-index: 1000;
+            position: absolute;
+            top: 1em;
+            right: 0;
+            background: white;
+            border: 1px solid #ccc;
+            padding: 0.5em 1em;
+        }
+    }
+
+    .dropdown-label:hover > .dropdown-list {
+        display: block;
+    }
+}
+
 @media screen and (max-width: 600px) {
     .site-nav .page-link {
         color:#111;
+    }
+
+    .dropdown-label {
+        cursor: pointer;
+    }
+
+    .dropdown-span::before,
+    .dropdown-span::after {
+        vertical-align: middle;
+        font-size: small;
+        margin: 4px;
+        content: "▾";
+    }
+
+    .nav-trigger:checked {
+        ~ .dropdown-span::before,
+        ~ .dropdown-span::after {
+            content: "▴";
+        }
+
+        ~ .dropdown-list {
+            display: block;
+        }
     }
 }
 
