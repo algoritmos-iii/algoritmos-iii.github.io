@@ -18,7 +18,10 @@
       </label>
 
       <div class="trigger">
-        {%- assign nav_pages = site.pages | where: "dir", page.dir | where_exp: "_page": "_page.title != nil" -%}
+        {%- assign dir_pages = site.pages | where_exp: "page", "page.title != nil" | group_by: "dir" -%}
+        {%- assign dir_names = dir_pages | map: "name" -%}
+
+        {%- assign nav_pages = dir_pages | where: "name", page.dir | map: "items" | first -%}
         {%- assign nav_categories = nav_pages | group_by: "category" -%}
 
         {%- assign nav_categorized_pages = nav_categories | where_exp: "category", "category.name != empty" -%}
@@ -48,6 +51,22 @@
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
           {%- endif -%}
         {%- endfor -%}
+
+        {%- assign cuatrimestres_anteriores_dir = '/cuatrimestres-anteriores/'-%}
+        {%- assign cuatrimestres_anteriores = dir_pages | where_exp: "_page": "_page.name contains cuatrimestres_anteriores_dir" %}
+        {%- unless cuatrimestres_anteriores == empty-%}
+        <label class="dropdown-label page-link">
+          <input type="checkbox" class="nav-trigger">
+          <span class="dropdown-span">Otros cuatrimestres</span>
+          <ul class="dropdown-list">
+            {%- for my_page in cuatrimestres_anteriores -%}
+              <li class="dropdown-item">
+                <a href="{{ my_page.name | relative_url }}">{{ my_page.name | replace: cuatrimestres_anteriores_dir, "" | escape }}</a>
+              </li>
+            {%- endfor -%}
+          </ul>
+        </label>
+        {%- endunless -%}
       </div>
     </nav>
     {%- endif -%}
