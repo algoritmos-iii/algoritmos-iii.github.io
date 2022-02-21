@@ -19,9 +19,10 @@ Lamentablemente esa gestión no es algo que dependa de nosotros, sino que lo man
 
 No, lamentablemente no podemos hacer alguna excepción sobre el criterio de promoción ya que esto seria injusto para el resto de los compañeros.
 
-## Tengo aprobada la cursada pero quiero rendir recuperatorio para subir la nota y promocionar 
+## Tengo aprobada la cursada pero quiero rendir recuperatorio para subir la nota y promocionar
 
-Es posible rendir recuperatorio para subir la nota pero **desaconsejamos fuertemente** rendir recuperatorio para subir la nota, ya que rindiendo el recuperatorio se prondria en juego toda la cursada en caso de que se llegara a desaprobar. Sumado a que el recuperatorio es un parcial convencional mucho más largo y exigente en comparación con el final que se trata de un oral con el profesor Luciano.
+Es posible rendir recuperatorio para subir la nota pero **desaconsejamos fuertemente** rendir recuperatorio para subir la nota, ya que rindiendo el recuperatorio se prondria en juego toda la cursada en caso de que se llegara a desaprobar. Sumado a que el recuperatorio es un parcial convencional mucho más largo y exigente en comparación con el final que se trata de un breve examen oral para "redondear" la nota de la cursada.
 
 <br><br>
+
 <p class="text-muted">Cualquier consulta no dudes en consultar. Fijate nuestros <a href="/#canales-consultas">canales de consultas</a></p>
