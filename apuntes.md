@@ -3,8 +3,8 @@ layout: page
 title: Apuntes
 ---
 
-- toc
-  {:toc}
+* toc
+{:toc}
 
 ## Presentaciones <img alt="github icon" width="20px" src="./assets/icons/presentacion.svg" />
 
