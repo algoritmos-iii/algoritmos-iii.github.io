@@ -142,7 +142,7 @@ Podes encontrar parciales de cuatrimestres anteriores en el siguiente [repo](htt
     Ejemplo:
 
     ```smalltalk
-        m1
+    m1
         |t1 myClosure|
         t1 := 1.
         myClosure := [t1 := t1 + 1].
