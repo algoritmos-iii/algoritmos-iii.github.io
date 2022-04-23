@@ -131,3 +131,44 @@ Podes encontrar parciales de cuatrimestres anteriores en el siguiente [repo](htt
   ```smalltalk
   distanceTo:
   ```
+
+<p class="sub-h4 "> Closure:</p>
+
+- Objeto que representa un bloque de código
+- Diferencia con método: No está asociado a un mensaje (es anónimo)
+- Representan conjunto de colaboraciones.
+- Estan bindeados al contexto. El closure esta unido al contexto.
+
+Ejemplo:
+
+```smalltalk
+m1
+	|t1 myClosure|
+	t1 := 1.
+	myClosure := [t1 := t1 + 1].
+	^myClosure
+```
+
+Si hago
+
+```smalltalk
+m1 value.
+```
+
+El resultado sera:
+
+```smalltalk
+m1 value. 2
+```
+
+Si hago nuevamente 
+
+```smalltalk
+m1 value.
+```
+
+Devolvera:
+
+```smalltalk
+m1 value. 3
+```
