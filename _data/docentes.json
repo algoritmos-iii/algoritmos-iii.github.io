@@ -159,7 +159,7 @@
         "name": "Chiara Ciriani",
         "github": "chiara-ciriani",
         "email": "cciriani@fi.uba.ar",
-        "profile-image": ""
+        "profile-image": "./assets/docentes/ChiaraC.webp"
     },
     {
         "name": "Ian Shih",
@@ -171,7 +171,7 @@
         "name": "Martin Ugarte",
         "github": "MartinUgarte",
         "email": "mugarte@fi.uba.ar",
-        "profile-image": ""
+        "profile-image": "./assets/docentes/MartinU.jpeg"
     },
     {
         "name": "Manuel Sanchez Fernandez de la Vega",
