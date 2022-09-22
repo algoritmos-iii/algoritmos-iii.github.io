@@ -223,7 +223,7 @@ Podes encontrar parciales de cuatrimestres anteriores en el siguiente [repo](htt
   nombreMensaje
     "comentarios"
     |respuesta|
-    respuesta := 'Hello world'
+    respuesta := 'Hello world'.
     ^respuesta
   ```
 
